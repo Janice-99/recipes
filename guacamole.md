@@ -3,5 +3,5 @@
 ## Instructions
 *Avocado
 *Apple
-Mix all ingredients and boil on the stove
+Mix all ingredients and boil on the stove, then store them in a jar
 * Cut up avocados
