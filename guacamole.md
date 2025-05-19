@@ -1,7 +1,7 @@
 # Guacamole
-## Ingredients
+## Ingredients 2 
 ## Instructions
-*Avocado 2
+*Avocado
 *Apple
 Mix all ingredients and boil on the stove
 * Cut up avocados
